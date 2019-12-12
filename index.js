@@ -9,7 +9,7 @@ function handleClick(e) {
 
 /* Write your implementation of greet() */
 function greet(time) { 
-  let hour = parseInt(time.split)
+  let hour = parseInt(time.split())
   
   
 }
