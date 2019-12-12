@@ -22,4 +22,5 @@ function greet(time) {
 function displayMessage(string) { 
   let greeting = document.querySelector('#greeting')
   
+  
 } 
