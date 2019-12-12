@@ -10,7 +10,8 @@ function handleClick(e) {
 /* Write your implementation of greet() */
 function greet(time) { 
   let hour = parseInt(time.split(':')[0])
-  if (hour < 12)
+  if (hour < 12) { 
+    
   
   
 }
