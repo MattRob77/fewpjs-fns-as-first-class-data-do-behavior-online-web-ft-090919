@@ -17,7 +17,5 @@ function greet(time) {
   } else {
     return "Good Evening"
   }
-  
-  
 }
 /* Write your implementation of displayMessage() */
